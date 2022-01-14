@@ -1,0 +1,32 @@
+{
+	"data": [
+		{
+			"id": "1",
+			"name": "Rio 2016 Nacra Medal Race",
+			"championship": "Rio 2016 Olympic Games",
+			"boatClass": "Nacra 17",
+			"date": "06-01-2016"
+		},
+		{
+			"id": "2",
+			"name": "Rio 2016 Finn Medal Race",
+			"championship": "Rio 2016 Olympic Games",
+			"boatClass": "Finn",
+			"date": "06-01-2016"
+		},
+		{
+			"id": "3",
+			"name": "Rio 2016 Laser Medal Race",
+			"championship": "Rio 2016 Olympic Games",
+			"boatClass": "Laser",
+			"date": "06-01-2016"
+		},
+		{
+			"id": "4",
+			"name": "Rio 2016 470 men Medal Race",
+			"championship": "Rio 2016 Olympic Games",
+			"boatClass": "470 men",
+			"date": "06-01-2016"
+		}
+	]
+}
