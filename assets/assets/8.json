@@ -1,0 +1,66 @@
+{
+    "regatta": "Tokyo 2020 49er FX women Medal Race",
+    "class": "49er FX women",
+    "data": [
+        {
+            "name": "Victoria Travascio - Maria Sol Branz",
+            "points": 2,
+            "champPoints": 88,
+            "countryCode": "ar"
+        },
+        {
+            "name": "Helene Naess - Marie Roenningen",
+            "points": 4,
+            "champPoints": 96,
+            "countryCode": "no"
+        },
+        {
+            "name": "Martine Grael - Kahena Kunze",
+            "points": 6,
+            "champPoints": 70,
+            "countryCode": "br"
+        },
+        {
+            "name": "Ida Marie Baad N. - Marie Thusgaard O.",
+            "points": 8,
+            "champPoints": 98,
+            "countryCode": "dk"
+        },
+        {
+            "name": "Tina Lutz - Susann Beucke",
+            "points": 10,
+            "champPoints": 73,
+            "countryCode": "de"
+        },
+        {
+            "name": "Tamara Echegoyen D - Paula Barcelo M",
+            "points": 12,
+            "champPoints": 77,
+            "countryCode": "es"
+        },
+        {
+            "name": "Charlotte Dobson - Saskia Tidey",
+            "points": 14,
+            "champPoints": 81,
+            "countryCode": "gb"
+        },
+        {
+            "name": "Lili Sebesi - Albane Dubois",
+            "points": 16,
+            "champPoints": 95,
+            "countryCode": "fr"
+        },
+        {
+            "name": "Annemiek Bekkering - Annette Duetz",
+            "points": 18,
+            "champPoints": 70,
+            "countryCode": "nl"
+        },
+        {
+            "name": "Kimberly Min Lim - Rui Qi Cecilia Low ",
+            "points": 22,
+            "champPoints": 97,
+            "countryCode": "sg"
+        }
+    ]
+}

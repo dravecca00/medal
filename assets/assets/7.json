@@ -1,0 +1,66 @@
+{
+    "regatta": "Tokyo 2020 49er men Medal Race",
+    "class": "49er men",
+    "data": [
+        {
+            "name": "Dylan Fletcher - Stuart Bithell",
+            "points": 2,
+            "champPoints": 56,
+            "countryCode": "gb"
+        },
+        {
+            "name": "Erik Heil - Thomas Ploessel",
+            "points": 4,
+            "champPoints": 66,
+            "countryCode": "de"
+        },
+        {
+            "name": "Peter Burling - Blair Tuke",
+            "points": 6,
+            "champPoints": 52,
+            "countryCode": "nz"
+        },
+        {
+            "name": "Lukasz Przybytek - Pawel Kolodzinski",
+            "points": 8,
+            "champPoints": 100,
+            "countryCode": "pl"
+        },
+        {
+            "name": "Benjamin Bildstein - David Hussl",
+            "points": 10,
+            "champPoints": 104,
+            "countryCode": "at"
+        },
+        {
+            "name": "Bart Lambriex - Pim van Vugt",
+            "points": 12,
+            "champPoints": 75,
+            "countryCode": "nl"
+        },
+        {
+            "name": "Diego Botin le Chever - Iago Lopez Marra",
+            "points": 14,
+            "champPoints": 56,
+            "countryCode": "es"
+        },
+        {
+            "name": "Jonas Warrer - Jakob Precht Jensen",
+            "points": 16,
+            "champPoints": 66,
+            "countryCode": "de"
+        },
+        {
+            "name": "Sime Fantela - Mihovil Fantela",
+            "points": 18,
+            "champPoints": 88,
+            "countryCode": "ch"
+        },
+        {
+            "name": "Jorge Lima - Jose Costa",
+            "points": 22,
+            "champPoints": 72,
+            "countryCode": "pt"
+        }
+    ]
+}

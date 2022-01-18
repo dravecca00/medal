@@ -1,0 +1,66 @@
+{
+    "regatta": "Rio 2016 470 men Medal Race",
+    "class": "470 men",
+    "data": [
+        {
+            "name": "Yannick Brauchli - Romuald Hausser",
+            "points": 2,
+            "champPoints": 92,
+            "countryCode": "ch"
+        },
+        {
+            "name": "Stuart Mcnay - David Hughes",
+            "points": 4,
+            "champPoints": 67,
+            "countryCode": "us"
+        },
+        {
+            "name": "Luke Patience - Chris Grube",
+            "points": 6,
+            "champPoints": 69,
+            "countryCode": "gb"
+        },
+        {
+            "name": "Sofian Bouvet - Jeremie Mion",
+            "points": 8,
+            "champPoints": 79,
+            "countryCode": "fr"
+        },
+        {
+            "name": "Anton Dahlberg - Fredrik Bergström",
+            "points": 10,
+            "champPoints": 69,
+            "countryCode": "se"
+        },
+        {
+            "name": "Paul Snow-Hansen - Dan Willcox",
+            "points": 12,
+            "champPoints": 92,
+            "countryCode": "nz"
+        },
+        {
+            "name": "Matthias Schmid - Florian Reichstädter",
+            "points": 14,
+            "champPoints": 73,
+            "countryCode": "at"
+        },
+        {
+            "name": "Sime Fantela - Igor Marenic",
+            "points": 16,
+            "champPoints": 41,
+            "countryCode": "hr"
+        },
+        {
+            "name": "Mathew Belcher - William Ryan",
+            "points": 18,
+            "champPoints": 40,
+            "countryCode": "au"
+        },
+        {
+            "name": "Panagiotis Mantis - Pavlos Kagialis",
+            "points": 20,
+            "champPoints": 38,
+            "countryCode": "gr"
+        }
+    ]
+}

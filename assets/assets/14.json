@@ -1,0 +1,66 @@
+{
+    "regatta": "Tokyo 2020 RS:X men Medal Race",
+    "class": "RS:X men",
+    "data": [
+        {
+            "name": "Yoav Cohen ",
+            "points": 2,
+            "champPoints": 74,
+            "countryCode": "il"
+        },
+        {
+            "name": "Kiran Badloe",
+            "points": 4,
+            "champPoints": 33,
+            "countryCode": "nl"
+        },
+        {
+            "name": "Mateo Sanz Lanz",
+            "points": 6,
+            "champPoints": 94,
+            "countryCode": "ch"
+        },
+        {
+            "name": "Kun Bi",
+            "points": 8,
+            "champPoints": 67,
+            "countryCode": "cn"
+        },
+        {
+            "name": "Angel Granda Roque",
+            "points": 10,
+            "champPoints": 108,
+            "countryCode": "es"
+        },
+        {
+            "name": "Pedro Pascual",
+            "points": 12,
+            "champPoints": 98,
+            "countryCode": "us"
+        },
+        {
+            "name": "Tom Squires",
+            "points": 14,
+            "champPoints": 68,
+            "countryCode": "gb"
+        },
+        {
+            "name": "Thomas Goyard",
+            "points": 22,
+            "champPoints": 52,
+            "countryCode": "fr"
+        },
+        {
+            "name": "Mattia Camboni",
+            "points": 22,
+            "champPoints": 54,
+            "countryCode": "it"
+        },
+        {
+            "name": "Piotr Myszka",
+            "points": 22,
+            "champPoints": 57,
+            "countryCode": "pl"
+        }
+    ]
+}

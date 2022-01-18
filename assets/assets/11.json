@@ -1,0 +1,66 @@
+{
+    "regatta": "Rio 2016 Laser Radial Medal Race",
+    "class": "Radial",
+    "data": [
+    {
+      "name": "Alison Young",
+      "points": 2,
+      "champPoints": 91,
+      "countryCode": "gb"
+    },
+    {
+      "name": "Josefin Olsson",
+      "points": 6,
+      "champPoints": 84,
+      "countryCode": "se"
+    },
+    {
+      "name": "Ashley Stoddart",
+      "points": 6,
+      "champPoints": 101,
+      "countryCode": "au"
+    },
+    {
+      "name": "Gintare Scheidt",
+      "points": 8,
+      "champPoints": 72,
+      "countryCode": "lt"
+    },
+    {
+      "name": "Annalise Murphy",
+      "points": 10,
+      "champPoints": 57,
+      "countryCode": "ie"
+    },
+    {
+      "name": "Evi Van Acker",
+      "points": 12,
+      "champPoints": 66,
+      "countryCode": "be"
+    },
+    {
+      "name": "Marit Bouwmeester",
+      "points": 14,
+      "champPoints": 47,
+      "countryCode": "nl"
+    },
+    {
+      "name": "Anne-Marie Rindom",
+      "points": 16,
+      "champPoints": 55,
+      "countryCode": "dk"
+    },
+    {
+      "name": "Tuula Tenkanen",
+      "points": 18,
+      "champPoints": 68,
+      "countryCode": "fi"
+    },
+    {
+      "name": "Paige Railey",
+      "points": 22,
+      "champPoints": 109,
+      "countryCode": "us"
+    }
+  ]
+  }

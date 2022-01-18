@@ -1,0 +1,66 @@
+{
+    "regatta": "Tokyo 2020 RS:X women Medal Race",
+    "class": "RS:X women",
+    "data": [
+        {
+            "name": "Charline Picon",
+            "points": 2,
+            "champPoints": 36,
+            "countryCode": "fr"
+        },
+        {
+            "name": "Emma Wilson",
+            "points": 4,
+            "champPoints": 34,
+            "countryCode": "gb"
+        },
+        {
+            "name": "Yunxiu Lu",
+            "points": 6,
+            "champPoints": 30,
+            "countryCode": "cn"
+        },
+        {
+            "name": "Marta Maggetti",
+            "points": 8,
+            "champPoints": 58,
+            "countryCode": "it"
+        },
+        {
+            "name": "Zofia Noceti Klepacka",
+            "points": 10,
+            "champPoints": 86,
+            "countryCode": "pl"
+        },
+        {
+            "name": "Lilian de Geus",
+            "points": 12,
+            "champPoints": 60,
+            "countryCode": "nl"
+        },
+        {
+            "name": "Hei Man H V Chan",
+            "points": 14,
+            "champPoints": 71,
+            "countryCode": "hk"
+        },
+        {
+            "name": "Patricia Freitas ",
+            "points": 16,
+            "champPoints": 117,
+            "countryCode": "br"
+        },
+        {
+            "name": "Laerke Buhl-Hansen",
+            "points": 18,
+            "champPoints": 75,
+            "countryCode": "de"
+        },
+        {
+            "name": "Katy Spychakov",
+            "points": 20,
+            "champPoints": 65,
+            "countryCode": "il"
+        }
+    ]
+}
