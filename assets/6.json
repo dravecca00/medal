@@ -1,0 +1,86 @@
+{
+    "regatta": "Tokyo 2020 470 women Medal Race",
+    "class": "470 women",
+    "data": [
+        {
+            "name": "SUI",
+            "helm": "Linda Fahrni",
+            "crew": "Maja Siegenthaler",
+            "points": 2,
+            "champPoints": 62,
+            "countryCode": "ch"
+        },
+        {
+            "name": "GER",
+            "helm": "Luise Wanser",
+            "crew": " Anastasiya Winkel",
+            "points": 4,
+            "champPoints": 73,
+            "countryCode": "de"
+        },
+        {
+            "name": "ISR",
+            "helm": "Noya Bar Am",
+            "crew": "Shahar Tibi",
+            "points": 6,
+            "champPoints": 74,
+            "countryCode": "il"
+        },
+        {
+            "name": "POL",
+            "helm": "Agnieszka Skrzypulec",
+            "crew": "Jolanta Ogar",
+            "points": 8,
+            "champPoints": 46,
+            "countryCode": "pl"
+        },
+        {
+            "name": "GBR",
+            "helm": "Hannah Mills",
+            "crew": "Eilidh McIntyre",
+            "points": 10,
+            "champPoints": 28,
+            "countryCode": "gb"
+        },
+        {
+            "name": "FRA",
+            "helm": "Camille Lecointre",
+            "crew": "Aloise Retornaz",
+            "points": 12,
+            "champPoints": 42,
+            "countryCode": "fr"
+        },
+        {
+            "name": "SLO",
+            "helm": "Tina Mrak",
+            "crew": "Veronika Macarol",
+            "points": 14,
+            "champPoints": 55,
+            "countryCode": "si"
+        },
+        {
+            "name": "JPN",
+            "helm": "Ai Kondo Yoshida",
+            "crew": "Miho Yoshioka",
+            "points": 16,
+            "champPoints": 63,
+            "countryCode": "jp"
+        },
+        {
+            "name": "NED",
+            "helm": "Afrodite Zegers",
+            "crew": "Lobke Berkhout",
+            "points": 18,
+            "champPoints": 73,
+            "countryCode": "nl"
+        },
+        {
+            "name": "BRA",
+            "helm": "Fernanda Oliveira",
+            "crew": "Ana Barbachan",
+            "points": 20,
+            "champPoints": 62,
+            "countryCode": "br"
+        }
+    ]
+}

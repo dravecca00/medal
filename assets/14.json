@@ -1,0 +1,86 @@
+{
+    "regatta": "Tokyo 2020 RS:X men Medal Race",
+    "class": "RS:X men",
+    "data": [
+        {
+            "name": "ISR",
+            "helm": "Yoav Cohen",
+            "crew": "",
+            "points": 2,
+            "champPoints": 74,
+            "countryCode": "il"
+        },
+        {
+            "name": "NED",
+            "helm": "Kiran Badloe",
+            "crew": "",
+            "points": 4,
+            "champPoints": 33,
+            "countryCode": "nl"
+        },
+        {
+            "name": "SUI",
+            "helm": "Mateo Sanz Lanz",
+            "crew": "",
+            "points": 6,
+            "champPoints": 94,
+            "countryCode": "ch"
+        },
+        {
+            "name": "CHN",
+            "helm": "Kun Bi",
+            "crew": "",
+            "points": 8,
+            "champPoints": 67,
+            "countryCode": "cn"
+        },
+        {
+            "name": "ESP",
+            "helm": "Angel Granda Roque",
+            "crew": "",
+            "points": 10,
+            "champPoints": 108,
+            "countryCode": "es"
+        },
+        {
+            "name": "USA",
+            "helm": "Pedro Pascual",
+            "crew": "",
+            "points": 12,
+            "champPoints": 98,
+            "countryCode": "us"
+        },
+        {
+            "name": "GBR",
+            "helm": "Tom Squires",
+            "crew": "",
+            "points": 14,
+            "champPoints": 68,
+            "countryCode": "gb"
+        },
+        {
+            "name": "FRA",
+            "helm": "Thomas Goyard",
+            "crew": "",
+            "points": 22,
+            "champPoints": 52,
+            "countryCode": "fr"
+        },
+        {
+            "name": "ITA",
+            "helm": "Mattia Camboni",
+            "crew": "",
+            "points": 22,
+            "champPoints": 54,
+            "countryCode": "it"
+        },
+        {
+            "name": "POL",
+            "helm": "Piotr Myszka",
+            "crew": "",
+            "points": 22,
+            "champPoints": 57,
+            "countryCode": "pl"
+        }
+    ]
+}

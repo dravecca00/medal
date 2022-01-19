@@ -1,0 +1,86 @@
+{
+    "regatta": "Tokyo 2020 470 men Medal Race",
+    "class": "470 men",
+    "data": [
+        {
+            "name": "AUS",
+            "helm": "Mathew Belcher",
+            "crew": "William Ryan",
+            "points": 2,
+            "champPoints": 21,
+            "countryCode": "au"
+        },
+        {
+            "name": "SWE",
+            "helm": "Anton Dahlberg",
+            "crew": "Fredrik Bergström",
+            "points": 4,
+            "champPoints": 41,
+            "countryCode": "se"
+        },
+        {
+            "name": "NZL",
+            "helm": "Paul Snow-Hansen",
+            "crew": "Dan Willcox",
+            "points": 6,
+            "champPoints": 51,
+            "countryCode": "nz"
+        },
+        {
+            "name": "USA",
+            "helm": "Stuart Mcnay",
+            "crew": "David Hughes",
+            "points": 8,
+            "champPoints": 78,
+            "countryCode": "us"
+        },
+        {
+            "name": "ESP",
+            "helm": "Jordi Xammar",
+            "crew": "Nicolas Rodriguez Garcia-Paz",
+            "points": 10,
+            "champPoints": 45,
+            "countryCode": "es"
+        },
+        {
+            "name": "JPN",
+            "helm": "Keiju Okada",
+            "crew": "Jumpei Hokazono",
+            "points": 12,
+            "champPoints": 70,
+            "countryCode": "jp"
+        },
+        {
+            "name": "ITA",
+            "helm": "Giacomo Ferrari",
+            "crew": "Giulio Calabro",
+            "points": 14,
+            "champPoints": 67,
+            "countryCode": "it"
+        },
+        {
+            "name": "GBR",
+            "helm": "Luke Patience ",
+            "crew": "Chris Grube",
+            "points": 16,
+            "champPoints": 54,
+            "countryCode": "gb"
+        },
+        {
+            "name": "GRE",
+            "helm": "Panagiotis Mantis",
+            "crew": "Pavlos Kagialis",
+            "points": 18,
+            "champPoints": 66,
+            "countryCode": "gr"
+        },
+        {
+            "name": "TUR",
+            "helm": "Deniz Cinar",
+            "crew": "Ates Cinar",
+            "points": 20,
+            "champPoints": 73,
+            "countryCode": "tr"
+        }
+    ]
+}

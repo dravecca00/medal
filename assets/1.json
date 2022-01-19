@@ -1,0 +1,86 @@
+{
+  "regatta": "Rio 2016 Nacra Medal Race",
+  "class": "Nacra 17",
+  "data": [
+  {
+    "name": "NZL",
+    "helm": "Gemma Jones",
+    "crew": "Jason Saunders",
+    "points": 2,
+    "champPoints": 79,
+    "countryCode": "nz"
+  },
+  {
+    "name": "AUS",
+    "helm": "Jason Waterhouse",
+    "crew": "Lisa Darmanin",
+    "points": 4,
+    "champPoints": 74,
+    "countryCode": "au"
+  },
+  {
+    "name": "AUT",
+    "helm": "Thomas Zajac",
+    "crew": "Tanja Frank",
+    "points": 6,
+    "champPoints": 72,
+    "countryCode": "at"
+  },
+  {
+    "name": "USA",
+    "helm": "Bora Gulari",
+    "crew": "Louisa Chafee",
+    "points": 8,
+    "champPoints": 96,
+    "countryCode": "us"
+  },
+  {
+    "name": "FRA",
+    "helm": "Billy Besson",
+    "crew": "Marie Riou",
+    "points": 10,
+    "champPoints": 83,
+    "countryCode": "fr"
+  },
+  {
+    "name": "ARG",
+    "helm": "Santiago Lange",
+    "crew": "Cecilia Carranza Saroli",
+    "points": 12,
+    "champPoints": 65,
+    "countryCode": "ar"
+  },
+  {
+    "name": "ITA",
+    "helm": "Vittorio Bissaro",
+    "crew": "Silvia Sicouri",
+    "points": 14,
+    "champPoints": 70,
+    "countryCode": "it"
+  },
+  {
+    "name": "BRA",
+    "helm": "Samuel Albrecht",
+    "crew": "Isabel Swan",
+    "points": 16,
+    "champPoints": 101,
+    "countryCode": "br"
+  },
+  {
+    "name": "GBR",
+    "helm": "Ben Saxton",
+    "crew": "Nicola Groves",
+    "points": 18,
+    "champPoints": 91,
+    "countryCode": "gb"
+  },
+  {
+    "name": "SUI",
+    "helm": "Matías Bühler",
+    "crew": "Nathalie Brugger",
+    "points": 20,
+    "champPoints": 80,
+    "countryCode": "ch"
+  }
+]
+}

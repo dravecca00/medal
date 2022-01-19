@@ -1,0 +1,86 @@
+{
+    "regatta": "Tokyo 2020 ILCA 7 men Medal Race",
+    "class": "ILCA 7 men",
+    "data": [
+        {
+            "name": "FRA",
+            "helm": "Jean Baptiste Bernaz",
+            "crew": "",
+            "points": 2,
+            "champPoints": 90,
+            "countryCode": "fr"
+        },
+        {
+            "name": "AUS",
+            "helm": "Matt Wearn",
+            "crew": "",
+            "points": 4,
+            "champPoints": 49,
+            "countryCode": "au"
+        },
+        {
+            "name": "GER",
+            "helm": "Philipp Buhl",
+            "crew": "",
+            "points": 6,
+            "champPoints": 85,
+            "countryCode": "de"
+        },
+        {
+            "name": "CRO",
+            "helm": "Tonci Stipanovic",
+            "crew": "",
+            "points": 8,
+            "champPoints": 74,
+            "countryCode": "hr"
+        },
+        {
+            "name": "KOR",
+            "helm": "Jeemin Ha",
+            "crew": "",
+            "points": 10,
+            "champPoints": 88,
+            "countryCode": "kr"
+        },
+        {
+            "name": "CYP",
+            "helm": "Pavlos Kontides",
+            "crew": "",
+            "points": 12,
+            "champPoints": 76,
+            "countryCode": "cy"
+        },
+        {
+            "name": "NOR",
+            "helm": "Hermann Tomasgaard",
+            "crew": "",
+            "points": 14,
+            "champPoints": 71,
+            "countryCode": "no"
+        },
+        {
+            "name": "FIN",
+            "helm": "Kaarle Tapper",
+            "crew": "",
+            "points": 16,
+            "champPoints": 93,
+            "countryCode": "fi"
+        },
+        {
+            "name": "BRA",
+            "helm": "Robert Scheidt",
+            "crew": "",
+            "points": 18,
+            "champPoints": 86,
+            "countryCode": "br"
+        },
+        {
+            "name": "NZL",
+            "helm": "Sam Meech",
+            "crew": "",
+            "points": 20,
+            "champPoints": 89,
+            "countryCode": "nz"
+        }
+    ]
+}

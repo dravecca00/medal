@@ -1,0 +1,86 @@
+{
+    "regatta": "Tokyo 2020 49er FX women Medal Race",
+    "class": "49er FX women",
+    "data": [
+        {
+            "name": "ARG",
+            "helm": "Victoria Travascio",
+            "crew": "Maria Sol Branz",
+            "points": 2,
+            "champPoints": 88,
+            "countryCode": "ar"
+        },
+        {
+            "name": "NOR",
+            "helm": "Helene Naess",
+            "crew": "Marie Roenningen",
+            "points": 4,
+            "champPoints": 96,
+            "countryCode": "no"
+        },
+        {
+            "name": "BRA",
+            "helm": "Martine Grael",
+            "crew": "Kahena Kunze",
+            "points": 6,
+            "champPoints": 70,
+            "countryCode": "br"
+        },
+        {
+            "name": "DEN",
+            "helm": "Ida Marie Baad Nielsen",
+            "crew": "Marie Thusgaard Olsen",
+            "points": 8,
+            "champPoints": 98,
+            "countryCode": "dk"
+        },
+        {
+            "name": "GER",
+            "helm": "Tina Lutz ",
+            "crew": "Susann Beucke",
+            "points": 10,
+            "champPoints": 73,
+            "countryCode": "de"
+        },
+        {
+            "name": "ESP",
+            "helm": "Tamara Echegoyen Dominguez",
+            "crew": "Paula Barcelo Martin",
+            "points": 12,
+            "champPoints": 77,
+            "countryCode": "es"
+        },
+        {
+            "name": "GBR",
+            "helm": "Charlotte Dobson",
+            "crew": "Saskia Tidey",
+            "points": 14,
+            "champPoints": 81,
+            "countryCode": "gb"
+        },
+        {
+            "name": "FRA",
+            "helm": "Lili Sebesi",
+            "crew": "Albane Dubois",
+            "points": 16,
+            "champPoints": 95,
+            "countryCode": "fr"
+        },
+        {
+            "name": "NED",
+            "helm": "Annemiek Bekkering",
+            "crew": "Annette Duetz",
+            "points": 18,
+            "champPoints": 70,
+            "countryCode": "nl"
+        },
+        {
+            "name": "SGP",
+            "helm": "Kimberly Min Lim",
+            "crew": "Rui Qi Cecilia Low",
+            "points": 22,
+            "champPoints": 97,
+            "countryCode": "sg"
+        }
+    ]
+}

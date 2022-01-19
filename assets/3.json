@@ -1,0 +1,86 @@
+{
+    "regatta": "Rio 2016 Laser Medal Race",
+    "class": "Laser",
+    "data": [
+        {
+            "name": "BRA",
+            "helm": "Robert Scheidt",
+            "crew": "",
+            "points": 2,
+            "champPoints": 87,
+            "countryCode": "br"
+        },
+        {
+            "name": "FRA",
+            "helm": "Jean Baptiste Bernaz",
+            "crew": "",
+            "points": 4,
+            "champPoints": 86,
+            "countryCode": "fr"
+        },
+        {
+            "name": "AUS",
+            "helm": "Tom Burton",
+            "crew": "",
+            "points": 6,
+            "champPoints": 67,
+            "countryCode": "au"
+        },
+        {
+            "name": "NZL",
+            "helm": "Sam Meech",
+            "crew": "",
+            "points": 8,
+            "champPoints": 77,
+            "countryCode": "nz"
+        },
+        {
+            "name": "NED",
+            "helm": "Rutger van Schaardenburg",
+            "crew": "",
+            "points": 10,
+            "champPoints": 108,
+            "countryCode": "nl"
+        },
+        {
+            "name": "CYP",
+            "helm": "Pavlos Kontides",
+            "crew": "",
+            "points": 12,
+            "champPoints": 92,
+            "countryCode": "cy"
+        },
+        {
+            "name": "GUA",
+            "helm": "Juan Ignacio Maegli Aguero",
+            "crew": "",
+            "points": 14,
+            "champPoints": 103,
+            "countryCode": "gt"
+        },
+        {
+            "name": "GBR",
+            "helm": "Nick Thompson",
+            "crew": "",
+            "points": 16,
+            "champPoints": 87,
+            "countryCode": "gb"
+        },
+        {
+            "name": "CRO",
+            "helm": "Tonci Stipanovic",
+            "crew": "",
+            "points": 18,
+            "champPoints": 57,
+            "countryCode": "hr"
+        },
+        {
+            "name": "ARG",
+            "helm": "Julio Alsogaray",
+            "crew": "",
+            "points": 22,
+            "champPoints": 109,
+            "countryCode": "ar"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "regatta": "Rio 2016 470 men Medal Race",
+    "class": "470 men",
+    "data": [
+        {
+            "name": "SUI",
+            "helm": "Yannick Brauchli",
+            "crew": "Romuald Hausser",
+            "points": 2,
+            "champPoints": 92,
+            "countryCode": "ch"
+        },
+        {
+            "name": "USA",
+            "helm": "Stuart Mcnay",
+            "crew": "David Hughes",
+            "points": 4,
+            "champPoints": 67,
+            "countryCode": "us"
+        },
+        {
+            "name": "GBR",
+            "helm": "Luke Patience",
+            "crew": "Chris Grube",
+            "points": 6,
+            "champPoints": 69,
+            "countryCode": "gb"
+        },
+        {
+            "name": "FRA",
+            "helm": "Sofian Bouvet",
+            "crew": "Jeremie Mion",
+            "points": 8,
+            "champPoints": 79,
+            "countryCode": "fr"
+        },
+        {
+            "name": "SWE",
+            "helm": "Anton Dahlberg",
+            "crew": "Fredrik Bergström",
+            "points": 10,
+            "champPoints": 69,
+            "countryCode": "se"
+        },
+        {
+            "name": "NZL",
+            "helm": "Paul Snow-Hansen",
+            "crew": "Dan Willcox",
+            "points": 12,
+            "champPoints": 92,
+            "countryCode": "nz"
+        },
+        {
+            "name": "AUT",
+            "helm": "Matthias Schmid",
+            "crew": "Florian Reichstädter",
+            "points": 14,
+            "champPoints": 73,
+            "countryCode": "at"
+        },
+        {
+            "name": "CRO",
+            "helm": "Sime Fantela",
+            "crew": "Igor Marenic",
+            "points": 16,
+            "champPoints": 41,
+            "countryCode": "hr"
+        },
+        {
+            "name": "AUS",
+            "helm": "Mathew Belcher",
+            "crew": "William Ryan",
+            "points": 18,
+            "champPoints": 40,
+            "countryCode": "au"
+        },
+        {
+            "name": "GRE",
+            "helm": "Panagiotis Mantis",
+            "crew": "Pavlos Kagialis",
+            "points": 20,
+            "champPoints": 38,
+            "countryCode": "gr"
+        }
+    ]
+}

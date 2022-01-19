@@ -1,0 +1,86 @@
+{
+    "regatta": "Tokyo 2020 ILCA 6 women Medal Race",
+    "class": "ILCA 6 women",
+    "data": [
+        {
+            "name": "SWE",
+            "helm": "Josefin Olsson",
+            "crew": "",
+            "points": 2,
+            "champPoints": 79,
+            "countryCode": "se"
+        },
+        {
+            "name": "BEL",
+            "helm": "Emma Plasschaert",
+            "crew": "",
+            "points": 4,
+            "champPoints": 83,
+            "countryCode": "be"
+        },
+        {
+            "name": "GRE",
+            "helm": "Vasileia Karachaliou",
+            "crew": "",
+            "points": 6,
+            "champPoints": 106,
+            "countryCode": "gr"
+        },
+        {
+            "name": "FIN",
+            "helm": "Tuula Tenkanen",
+            "crew": "",
+            "points": 8,
+            "champPoints": 87,
+            "countryCode": "fi"
+        },
+        {
+            "name": "NOR",
+            "helm": "Line Flem Hoest",
+            "crew": "",
+            "points": 10,
+            "champPoints": 101,
+            "countryCode": "no"
+        },
+        {
+            "name": "NED",
+            "helm": "Marit Bouwmeester",
+            "crew": "",
+            "points": 12,
+            "champPoints": 71,
+            "countryCode": "nl"
+        },
+        {
+            "name": "DEN",
+            "helm": "Anne-Marie Rindom",
+            "crew": "",
+            "points": 14,
+            "champPoints": 64,
+            "countryCode": "dk"
+        },
+        {
+            "name": "GBR",
+            "helm": "Alison Young",
+            "crew": "",
+            "points": 16,
+            "champPoints": 117,
+            "countryCode": "gb"
+        },
+        {
+            "name": "CAN",
+            "helm": "Sarah Douglas",
+            "crew": "",
+            "points": 18,
+            "champPoints": 82,
+            "countryCode": "ca"
+        },
+        {
+            "name": "ITA",
+            "helm": "Silvia Zennaro",
+            "crew": "",
+            "points": 22,
+            "champPoints": 84,
+            "countryCode": "it"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "regatta": "Tokyo 2020 Finn Medal Race",
+    "class": "Finn",
+    "data": [
+        {
+            "name": "HUN",
+            "helm": "Zsombor Berecz",
+            "crew": "",
+            "points": 2,
+            "champPoints": 37,
+            "countryCode": "hu"
+        },
+        {
+            "name": "NED",
+            "helm": "Nicholas Heiner",
+            "crew": "",
+            "points": 4,
+            "champPoints": 52,
+            "countryCode": "nl"
+        },
+        {
+            "name": "AUS",
+            "helm": "Jake Lilley",
+            "crew": "",
+            "points": 6,
+            "champPoints": 63,
+            "countryCode": "au"
+        },
+        {
+            "name": "GBR",
+            "helm": "Giles Scott",
+            "crew": "",
+            "points": 8,
+            "champPoints": 28,
+            "countryCode": "gb"
+        },
+        {
+            "name": "TUR",
+            "helm": "Alican Kaynar",
+            "crew": "",
+            "points": 10,
+            "champPoints": 71,
+            "countryCode": "tr"
+        },
+        {
+            "name": "ESP",
+            "helm": "Joan Cardona Mendez",
+            "crew": "",
+            "points": 12,
+            "champPoints": 39,
+            "countryCode": "es"
+        },
+        {
+            "name": "CAN",
+            "helm": "Tom Ramshaw",
+            "crew": "",
+            "points": 14,
+            "champPoints": 80,
+            "countryCode": "ca"
+        },
+        {
+            "name": "ARG",
+            "helm": "Facundo Mario Olezza Bazan",
+            "crew": "",
+            "points": 16,
+            "champPoints": 52,
+            "countryCode": "ar"
+        },
+        {
+            "name": "SWE",
+            "helm": "Max Salminen",
+            "crew": "",
+            "points": 18,
+            "champPoints": 72,
+            "countryCode": "se"
+        },
+        {
+            "name": "NZL",
+            "helm": "Josh Junior",
+            "crew": "",
+            "points": 20,
+            "champPoints": 47,
+            "countryCode": "nz"
+        }
+    ]
+}
